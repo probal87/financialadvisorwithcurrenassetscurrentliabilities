@@ -1,0 +1,2 @@
+# financialadvisorwithcurrenassetscurrentliabilities
+calculates_currentratio_workingcapital with the help to python
